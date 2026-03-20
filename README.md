@@ -108,6 +108,8 @@ Middleware de Logging desenvolvido para registrar ações do sistema, garantindo
 
 A arquitetura segue boas práticas de separação por camadas (rotas, serviços, middlewares), facilitando manutenção e escalabilidade.
 
+---
+
 📦 Funcionalidades Implementadas
 
 📱 Interface mobile-first com fluxo interativo de captura
@@ -123,6 +125,8 @@ A arquitetura segue boas práticas de separação por camadas (rotas, serviços,
 🧾 Sistema de logs para auditoria
 
 📁 Armazenamento local de imagens
+
+---
 
 🚀 Deploy
 Backend (Render / Railway)
@@ -149,6 +153,8 @@ JWT_SECRET
 
 FRONTEND_URL
 
+---
+
 ⚠️ Armazenamento de Imagens (Importante)
 
 Atualmente, as imagens são salvas localmente em:
@@ -165,6 +171,8 @@ Firebase Storage
 
 Atualizar o serviço de imagem para enviar o buffer diretamente para storage externo.
 
+---
+
 Frontend (Vercel)
 
 Importar repositório no Vercel
@@ -178,3 +186,5 @@ Configurar variável:
 VITE_API_URL=https://seu-backend.com/api
 ```
 Deploy
+
+---
