@@ -86,6 +86,8 @@ npm run dev
 Acesse:
 👉 http://localhost:5173
 
+---
+
 🧠 Decisões Técnicas
 
 Node.js + Express foram escolhidos pela simplicidade, performance e grande ecossistema para construção de APIs.
