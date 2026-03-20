@@ -149,11 +149,11 @@ node src/index.js
 ```
 Variáveis de ambiente:
 
-MONGODB_URI
+- MONGODB_URI
 
-JWT_SECRET
+- JWT_SECRET
 
-FRONTEND_URL
+- FRONTEND_URL
 
 ---
 
